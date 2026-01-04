@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on TripPlanner<br>🌱 I’m currently learning Full Stack in Website Making <br>💬 Ask me about Luau (Roblox's Coding Language)
+👯 I’m looking to collaborate on Nerdverse<br>🌱 I’m currently learning Full Stack in Website Making <br>💬 Ask me about Luau (Roblox's Coding Language)
 
 
 ## 🌐 Socials:
